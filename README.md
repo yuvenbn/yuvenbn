@@ -18,9 +18,9 @@ With over 3 years of experience in full stack development, I've spent the last 2
 - ![MVC](https://img.shields.io/badge/-MVC-ffab00?style=flat)
 
 ### **API Development**
-- ![Django Rest Framework](https://img.shields.io/badge/-Django%20Rest%20Framework-092E20?style=flat&logo=django&logoColor=white)
-- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-- ![Hasura](https://img.shields.io/badge/-Hasura-1EB4D4?style=flat&logo=hasura&logoColor=white)
+ ![Django Rest Framework](https://img.shields.io/badge/-Django%20Rest%20Framework-092E20?style=flat&logo=django&logoColor=white)
+ ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+ ![Hasura](https://img.shields.io/badge/-Hasura-1EB4D4?style=flat&logo=hasura&logoColor=white)
 
 ### **Databases**
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
