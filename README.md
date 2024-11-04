@@ -1,5 +1,5 @@
 
-# Hi there 👋 I'm Yuven Brian
+# Hi there 👋 I'm Yuven
 
 🚀 **Full Stack Developer** | **Lead Engineer at Solafide OHADA Accounting** | 🌍 Passionate about building impactful web applications.
 
@@ -7,7 +7,7 @@
 
 ## 💼 About Me
 
-With over 3 years of experience in full stack development, I've spent the last 2 years leading a small team as the lead engineer at Solafide OHADA Accounting. I specialize in building dynamic, scalable applications that simplify complex business processes, particularly in accounting, finance, and school management systems. I’m comfortable taking on projects from end-to-end, including backend, frontend, deployment, and ongoing maintenance.
+With over 4 years of experience in full stack development, I've spent the last 2 years leading a small team as the lead engineer at Solafide OHADA Accounting. I specialize in building dynamic, scalable applications that simplify complex business processes, particularly in accounting, finance, and school management systems. I’m comfortable taking on projects from end-to-end, including backend, frontend, deployment, and ongoing maintenance.
 
 ## 🔧 Tech Stack
 
